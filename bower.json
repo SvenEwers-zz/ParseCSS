@@ -1,0 +1,22 @@
+{
+  "name": "Parser",
+  "version": "0.0.01",
+  "authors": [
+    "Sven Ewers <Sven@Ewers.li>"
+  ],
+  "description": "Stupid idea to check CSS compatibility in JS",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "http://github.com/SvenEwers/Parser",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mustache": "~0.8.2"
+  }
+}
